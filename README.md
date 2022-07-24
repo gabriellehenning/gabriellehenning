@@ -1,16 +1,46 @@
-### Hi there 👋
+<h2 align="center">Hi, I am Gabrielle, but you can call me Gabby! 🤗</h2>
 
-<!--
-**gabriellehenning/gabriellehenning** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<h4 align="left">Informations Systems and Programming student, I am focusing at the moment in learning Java, but I am also passionate about AI, blockchain, machine learning, and data science. </h4>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h4 align="left">I am also a CX Specialist and have been working with customers for +5 years, with many important soft skills such as empathy, communication, teamwork and leadership. </h4>
+
+<h4>
+<p align="left">🐛 Solving bugs since 2020<br>📚 I'm currently learning Java.<br>🎯 Goals: TO develop for the users and a friendly environment, making technology inclusive to everybody.</p>
+
+
+<h4 align="left"Drop me a message anytime if you would like to talk and know more! ✌️ </h4>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=gabriellehenning" height="150" alt="stats graph"  />
+
+
+###
+
+###
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" width="42" alt="java logo"  />
+</div>
+
+###
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/gabriellehenning/https://www.facebook.com/henninggabrielle" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="https://mail.google.com/mail/u/0/?fs=1&to=henning.gabrielle@gmail.com&su=SUBJECT&body=&&tf=cm" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://www.facebook.com/henninggabrielle" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
+  </a>
+</div>
+
+###
+
+<br clear="both">
+
+
+###
