@@ -7,7 +7,7 @@
 <h4 align="left">I am also a CX Specialist and have been working with customers for +5 years, with many important soft skills such as empathy, communication, teamwork and leadership. </h4>
 
 <h4>
-<p align="left">🐛 Solving bugs since 2020<br>📚 I'm currently learning Java.<br>🎯 Goals: TO develop for the users and a friendly environment, making technology inclusive to everybody.</p>
+<p align="left">🐛 Fixing bugs since 2020<br>📚 I'm currently learning Java.<br>🎯 Goals: TO develop for the users and a friendly environment, making technology inclusive to everybody.</p>
 
 
 <h4 align="left"Drop me a message anytime if you would like to talk and know more! ✌️ </h4>
