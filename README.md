@@ -6,8 +6,13 @@
 
 <h4 align="left">I am also a CX Specialist and have been working with customers for +5 years, with many important soft skills such as empathy, communication, teamwork and leadership. </h4>
 
+<h4 align="left">I am also a CX Specialist and have been working with customers for +5 years, with many important soft skills such as empathy, communication, teamwork and leadership. </h4>
+
+
+<h4 align="left">I have been working in a FinTech and also in a global crypto exchange, with a huge knowledge in the financial world.</h4>
+
 <h4>
-<p align="left">🐛 Fixing bugs since 2020<br>📚 I'm currently learning Java.<br>🎯 Goals: TO develop for the users and a friendly environment, making technology inclusive to everybody.</p>
+<p align="left">🐛 Fixing bugs since 2020<br>📚 I'm currently learning Java, as main language, but also checking up python, CSS, HTML5 and JavaScript.<br>🎯 Goals: TO develop for the users and a friendly environment, making technology inclusive to everybody, focused on back-end.</p>
 
 
 <h4 align="left"Drop me a message anytime if you would like to talk and know more! ✌️ </h4>
@@ -27,7 +32,11 @@
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" width="42" alt="java logo"  />
-</div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="42" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" width="42" alt="html5 logo"  />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" width="42" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" width="42" alt="css3 logo"  />  
+  </div>  
+
 
 ###
 
