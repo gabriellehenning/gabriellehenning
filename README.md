@@ -12,7 +12,7 @@
 <h4 align="left">I have been working in a FinTech and also in a global crypto exchange, with a huge knowledge in the financial world.</h4>
 
 <h4>
-<p align="left">🐛 Fixing bugs since 2020<br>📚 I'm currently learning Java, as main language, but also checking up python, CSS, HTML5 and JavaScript.<br>🎯 Goals: TO develop for the users and a friendly environment, making technology inclusive to everybody, focused on back-end.</p>
+<p align="left">🐛 Fixing bugs since 2020<br>📚 I'm currently learning Java, as main language, but also checking up python, CSS, HTML5 and JavaScript.<br>🎯 Goals: To develop for the users and a friendly environment, making technology inclusive to everybody, focused on back-end.</p>
 
 
 <h4 align="left"Drop me a message anytime if you would like to talk and know more! ✌️ </h4>
