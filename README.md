@@ -6,9 +6,6 @@
 
 <h4 align="left">I am also a CX Specialist and have been working with customers for +5 years, with many important soft skills such as empathy, communication, teamwork and leadership. </h4>
 
-<h4 align="left">I am also a CX Specialist and have been working with customers for +5 years, with many important soft skills such as empathy, communication, teamwork and leadership. </h4>
-
-
 <h4 align="left">I have been working in a FinTech and also in a global crypto exchange, with a huge knowledge in the financial world.</h4>
 
 <h4>
