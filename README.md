@@ -1,4 +1,4 @@
-<h2 align="center">Hi, I am Gabrielle, but you can call me Gabby! 🤗</h2>
+<h2 align="center">Hi, I am Gabrielle, but you can call me Gabi! 🤗</h2>
 
 ###
 
@@ -25,9 +25,6 @@
   </a>
   <a href="https://mail.google.com/mail/u/0/?fs=1&to=henning.gabrielle@gmail.com&su=Info+Requested&body=Hi,+Gabrielle&&tf=cm" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.facebook.com/henninggabrielle" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
   </a>
 </div>
 
